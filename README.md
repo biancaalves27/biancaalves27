@@ -1,10 +1,9 @@
-## Olá, Eu sou Rafael!😁
-
+## Olá, Eu sou Bianca!
 ## Sobre mim:
-Sou Desenvolvedor Backend.
+Sou Desenvolvedor Front-end.
 
 
-<a target="_blank" href="mailto:rafaelalves.15@outlook.com">
+<a target="_blank" href="mailto:bianca.alves27@live.com">
   <img align="center" alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>
   
