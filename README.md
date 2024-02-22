@@ -1,4 +1,4 @@
-## Olá, Eu sou Bianca!
+##👋 Olá, Eu sou Bianca! 
 ## Sobre mim:
 Sou Desenvolvedor Front-end.
 
