@@ -7,33 +7,21 @@ Sou Desenvolvedor Front-end.
   <img align="center" alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>
   
-<a href="https://www.linkedin.com/in/rafael-alves-silva-r150/">
-  <img align="center" alt="Outlook" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+
 <br>
 <br>
 
 
-![](https://www.codewars.com/users/rafa.alves.15/badges/micro)
+
 
  <div>
-  <a href="https://github.com/rafa-alves-15">
+  <a href="https://github.com/biancaalves27">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafa-alves-15&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-alves-15&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
-  ## Meus Projetos:
-  
- </br>
- <a href="https://github.com/rafa-alves-15/Hush-Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-alves-15&repo=Hush-Game&theme=chartreuse-dark" />
- </a>
- <a href="https://github.com/rafa-alves-15/project-2-my-own-help">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-alves-15&repo=My-Own-Help&theme=chartreuse-dark" />
- </a>
-  <a href="https://github.com/rafa-alves-15/ironfastpass">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafa-alves-15&repo=Iron-Fast-Pass&theme=chartreuse-dark" />
- </a>
+
+
 
  
  ## My Stack:
@@ -45,7 +33,7 @@ Sou Desenvolvedor Front-end.
 ![Bootstrap](http://img.shields.io/badge/-Bootstrap-69419A?style=flat&logo=bootstrap&logoColor=white)
 
 ### Utilities:
-![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)
+
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ### DevOps:
