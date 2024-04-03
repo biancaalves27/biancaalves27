@@ -1,6 +1,6 @@
 ## Olá, Eu sou Bianca! 
 ## Sobre mim:
-Sou Desenvolvedor Front-end.
+Sou Desenvolvedora Front-end.
 
 
 <a target="_blank" href="mailto:bianca.alves27@live.com">
