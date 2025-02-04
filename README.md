@@ -1,5 +1,5 @@
 ## 👋 Olá, sou Bianca Alves Silva!
-## Sobre mim:🎓 Sou formada em Design Gráfico e fiz cursos de Front-End e QA. Atualmente, estou me aprofundando na área de Quality Assurance (QA) e buscando oportunidades de trabalho na área de tecnologia.
+🎓 Sou formada em Design Gráfico e fiz cursos de Front-End e QA. Atualmente, estou me aprofundando na área de Quality Assurance (QA) e buscando oportunidades de trabalho na área de tecnologia.
 
 💻 Tenho experiência em análise de qualidade de software, além de conhecimentos em Front-End (HTML, CSS e JavaScript). No meu caminho profissional, já trabalhei com suporte técnico e atendimento ao cliente, onde aprendi a importância da resolução de problemas e da comunicação clara e eficiente.
 
