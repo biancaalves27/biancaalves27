@@ -1,5 +1,19 @@
-## Olá, Eu sou Bianca! 
-## Sobre mim:
+## 👋 Olá, sou Bianca Alves Silva!
+## Sobre mim:🎓 Sou formada em Design Gráfico e fiz cursos de Front-End e QA. Atualmente, estou me aprofundando na área de Quality Assurance (QA) e buscando oportunidades de trabalho na área de tecnologia.
+
+💻 Tenho experiência em análise de qualidade de software, além de conhecimentos em Front-End (HTML, CSS e JavaScript). No meu caminho profissional, já trabalhei com suporte técnico e atendimento ao cliente, onde aprendi a importância da resolução de problemas e da comunicação clara e eficiente.
+
+🚀 Estou sempre em busca de aprender mais e aplicar as melhores práticas no desenvolvimento de software. No momento, estou explorando como usar Selenium para testes automatizados e como React pode melhorar a experiência de desenvolvimento front-end.
+
+🔧 Meus interesses incluem:
+
+Desenvolvimento Front-End
+Testes de Software (QA)
+Automação de Testes
+Design e Experiência do Usuário
+🔗 Você pode conferir alguns dos meus projetos e contribuições aqui no GitHub!
+
+🌱 Estou sempre aberta a novos aprendizados e colaborações. Sinta-se à vontade para entrar em contato comigo se você tiver algum projeto interessante ou apenas quiser trocar ideias sobre tecnologia.
 
 
 <a target="_blank" href="mailto:bianca.alves27@live.com">
