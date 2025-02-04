@@ -2,7 +2,7 @@
 
 💻 Sou formada em **Design Gráfico** e me especializei em **Front-End** e **Quality Assurance (QA)**.  
 🚀 Atualmente, estou me aprofundando em testes de software, buscando crescer na área de QA.  
-📌 Tenho experiência com **testes manuais**, **automação de testes**, **HTML, CSS e JavaScript**.  
+📌 Tenho experiência com **testes manuais**, **HTML, CSS e JavaScript**.  
 
 ---
 
