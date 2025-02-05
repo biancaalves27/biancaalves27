@@ -56,7 +56,7 @@
 
 ---
 
-## 📬 Entre em contato comigo:
+## 💌 Entre em contato comigo:
 
 <a target="_blank" href="mailto:bianca.alves27@live.com">
   <img align="center" alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
@@ -64,8 +64,11 @@
 <a target="_blank" href="https://www.linkedin.com/in/bianca-alves-silva-qa/">
   <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a target="_blank" href="https://drive.google.com/file/d/1A-Bl6R3-JKJHg6auRT07kFZJX0CZBfZV/view?usp=sharing">
+  <img align="center" alt="Currículo" src="https://img.shields.io/badge/Curr%C3%ADculo-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
+</a>
 
 ---
 
-⭐ **Seja bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus projetos e entrar em contato!** 🚀
+🌟 **Seja bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus projetos e entrar em contato!** 🚀
 
