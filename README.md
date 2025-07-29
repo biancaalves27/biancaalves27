@@ -62,7 +62,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/bianca-alves-silva-qa/">
   <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a target="_blank" href="https://drive.google.com/file/d/1dMXd8gC0H-NKt_6_jTc_Ufj0rSkk_oXp/view?usp=sharing"/>
+<a target="_blank" href="https://drive.google.com/file/d/1D0yrEcjRBcPfW0DRtdhUyQDA-uASHh_Y/view?usp=sharin"/>
   <img align="center" alt="Currículo" src="https://img.shields.io/badge/Curr%C3%ADculo-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
 </a>
 
